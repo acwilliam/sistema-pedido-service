@@ -1,4 +1,4 @@
-package com.acwilliammsn.course.Config;
+package com.acwilliammsn.course.config;
 
 import java.time.Instant;
 import java.util.Arrays;
